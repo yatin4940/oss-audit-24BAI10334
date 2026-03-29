@@ -1,4 +1,4 @@
-# Open Source Audit — OSS NGMC Project
+# Open Source Audit OSS NGMC Project
 
 ##  Student Details
 
