@@ -1,0 +1,7 @@
+Open Source Manifesto - 29 March 2026
+
+I believe in the power of open source software.
+Using tools like VLC player every day reminds me that technology grows stronger when it is shared.
+For me, freedom in technology means expressiveness.
+In the future, I would like to build and freely share Web apps so that others can learn, improve, and innovate together.
+Open source encourages collaboration, transparency, and community-driven development.
